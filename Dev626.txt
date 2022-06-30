@@ -1,0 +1,21 @@
+-¿Qué es? #git #github
+
+-¿Por qué aprenderlo - Donde se usa?
+
+-¿Qué necesito para aprenderlo?
+
+-¿Cuáles son los casos de uso?
+
+-¿Es solo para developers?
+
+-Recursos:
+    -https://github.com/hbons/git-cheat-sheet
+    -https://medium.com/@isamarietr/git-cheat-sheet-5c27a42f2c1a
+    -https://git-scm.com/
+    -https://learngitbranching.js.org/?locale=es_ES
+
+[Next Steps...]
+
+
+
+-LaPizarra: https://excalidraw.com/
